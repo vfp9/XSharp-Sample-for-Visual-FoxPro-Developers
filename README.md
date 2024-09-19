@@ -1,4 +1,4 @@
-# XSharp-Sample-for-Visual-FoxPro-Developers
+# XSharp Sample for Visual FoxPro Developers
 [简体中文](README.md) | [English](README_EN.md)
 
 这是一组针对不熟悉 .NET 的 VFP 开发者的示例。
