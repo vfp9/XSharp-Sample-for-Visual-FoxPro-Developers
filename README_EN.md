@@ -1,4 +1,4 @@
-# XSharp-Sample-for-Visual-FoxPro-Developers
+# XSharp Sample for Visual FoxPro Developers
 [简体中文](README.md) | [English](README_EN.md)
 
 This is a set of examples for VFP developers who are not familiar with DOT Net.
